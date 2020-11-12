@@ -1,0 +1,11 @@
+*.pyc
+*.pyo
+*.7z*
+.idea
+.settings
+.project
+.pydevproject
+__pycache__
+Docs
+Patch*
+*.tar.gz

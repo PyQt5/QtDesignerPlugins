@@ -1,0 +1,18 @@
+﻿{
+  "brace_style": "expand,preserve-inline",
+  "break_chained_methods": false,
+  "comma_first": false,
+  "e4x": true,
+  "end_with_newline": false,
+  "indent_empty_lines": false,
+  "indent_inner_html": false,
+  "indent_scripts": "separate",
+  "indent_size": "4",
+  "jslint_happy": false,
+  "keep_array_indentation": false,
+  "max_preserve_newlines": "-1",
+  "preserve_newlines": false,
+  "space_before_conditional": false,
+  "unescape_strings": false,
+  "wrap_line_length": "120"
+}

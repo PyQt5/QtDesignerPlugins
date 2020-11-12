@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: css-beautify
+Version: 1.10.3
+Summary: CSS unobfuscator and beautifier
+Home-page: UNKNOWN
+Author: Jorengarenar
+Author-email: jorengarenar@protonmail.com
+License: MIT
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+
+UNKNOWN
+
+

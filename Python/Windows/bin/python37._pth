@@ -1,0 +1,9 @@
+DLLs
+python37.zip
+.
+Lib
+Lib\site-packages
+designer
+
+# Uncomment to run site.main() automatically
+#import site

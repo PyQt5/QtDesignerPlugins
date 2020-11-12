@@ -1,0 +1,12 @@
+#!/bin/sh
+
+basedir=`dirname $0`
+basedir=`cd $basedir;pwd`
+
+cd -P ${basedir}
+
+export PYTHONHOME=${basedir}/../../
+export PYTHONPATH=${basedir}/../lib/python3.6/:${basedir}/../lib/python3.6/lib-dynload/:${basedir}/../lib/python3.6/site-packages/:${basedir}/../lib64/python3.6/site-packages/
+export LD_LIBRARY_PATH=${basedir}/../lib64:${basedir}/../../lib
+
+${basedir}/python3m $@
