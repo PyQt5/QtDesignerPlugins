@@ -63,3 +63,11 @@ QSS Editor Plugin
 
 ![editor_menu.png](ScreenShot/editor_menu.png)
 ![editor_lint.png](ScreenShot/editor_lint.png)
+
+
+Websocket Plugin
+
+you can use `QWebSocket` or `QRemoteObjectNode` to control designer,
+see [WebSocket Plugin Demo](Designer/Windows/plugins/designer)
+
+![WebSocketDemo.gif](ScreenShot/WebSocketDemo.gif)
