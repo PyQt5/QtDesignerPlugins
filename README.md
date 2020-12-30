@@ -13,6 +13,7 @@
 - [x] PyQt5 plug-in, you can use PyQt5 to write custom controls 【PyQt5 插件，可以通过 PyQt5 编写设计师自定义控件】
 - [x] Style editor with auto-complete, QSS format, QSS lint 【QSS 编辑器优化】
 - [x] Ui Files Workspace 【当前打开 UI 文件的工作空间】
+- [x] Designer Control Plugin 【设计师控制接口】
 - [ ] linguist.exe with multi language translation
 - [ ] assistant.exe with translation
 
